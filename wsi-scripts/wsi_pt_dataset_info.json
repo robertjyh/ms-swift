@@ -1,0 +1,18 @@
+[
+    {
+        "dataset_name": "q1m",
+        "dataset_path": "/data1/liuxiaoyu/wrap/q1m_dataset_a6000.jsonl"
+    },
+    {
+        "dataset_name": "arch_dataset",
+        "dataset_path": "/data1/liuxiaoyu/wrap/arch_dataset_a6000.jsonl"
+    },
+    {
+        "dataset_name": "pathcap_qa",
+        "dataset_path":"/data1/liuxiaoyu/wrap/pathcap_qa_ms_swift.jsonl"
+    },
+    {
+        "dataset_name": "pathcap_qa_test",
+        "dataset_path":"/data1/liuxiaoyu/wrap/pathcap_qa_ms_swift_test.jsonl"
+    }
+]
